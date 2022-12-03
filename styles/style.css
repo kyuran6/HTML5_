@@ -1,1 +1,26 @@
 /* CSS 스타일 */
+
+body {
+  background: #ffc;
+  margin: 0;
+}
+
+.header {
+  background: pink;
+}
+
+.visual {
+  background: orange;
+}
+
+.group {
+  background: lightgreen;
+}
+
+.slogan {
+  background: skyblue;
+}
+
+.footer {
+  background: gray;
+}
